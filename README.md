@@ -93,10 +93,6 @@ Acesse a aplicação em `http://localhost:5000`.
 
 A documentação da API é gerada automaticamente com Swagger e está disponível em `http://localhost:5000/apidocs/`.
 
-## 📝 Licença
-
-Este projeto está licenciado sob a Licença MIT. Consulte o arquivo [LICENSE](LICENSE) para obter mais informações.
-
 ## 🤝 Contribuindo
 
 1. Fork este repositório.
