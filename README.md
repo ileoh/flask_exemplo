@@ -34,7 +34,7 @@ intro_api/
 ├── Dockerfile
 ├── README.md
 └── run.py
-```
+
 
 - **`app/`**: Diretório principal do aplicativo.
   - **`routes/`**: Contém as rotas organizadas por funcionalidades.
