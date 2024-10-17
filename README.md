@@ -14,6 +14,7 @@ Este é um projeto de API desenvolvido com Flask, que inclui operações CRUD, w
 
 ## 📁 Estrutura do Projeto
 
+```bash
 intro_api/
 ├── app/
 │   ├── __init__.py
@@ -33,7 +34,7 @@ intro_api/
 ├── Dockerfile
 ├── README.md
 └── run.py
-
+```
 
 - **`app/`**: Diretório principal do aplicativo.
   - **`routes/`**: Contém as rotas organizadas por funcionalidades.
