@@ -14,7 +14,6 @@ Este é um projeto de API desenvolvido com Flask, que inclui operações CRUD, w
 
 ## 📁 Estrutura do Projeto
 
-
 intro_api/
 ├── app/
 │   ├── __init__.py
