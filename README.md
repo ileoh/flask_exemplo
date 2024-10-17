@@ -1,6 +1,6 @@
 ### `README.md`
 
-```markdown
+
 # My Flask API
 
 Este é um projeto de API desenvolvido com Flask, que inclui operações CRUD, web scraping e autenticação básica.
@@ -14,7 +14,7 @@ Este é um projeto de API desenvolvido com Flask, que inclui operações CRUD, w
 
 ## 📁 Estrutura do Projeto
 
-```
+
 intro_api/
 ├── app/
 │   ├── __init__.py
