@@ -51,7 +51,7 @@ intro_api/
 ### 1. Clone o Repositório
 
 ```bash
-git clone <repo-url>
+git clone https://github.com/ileoh/flask_exemplo
 cd my_flask_app
 ```
 
